@@ -46,6 +46,8 @@ I direct the **Applied AI Research Group** at Horizon Campus, supervising over *
 
 ## 📖 Educational Resources for Students
 
+- **Governing Sensitive Data in Artificial Intelligence Systems: Five Foundational Controls for Machine-Speed Security, Privacy, and Compliance** (2026)  
+  *An in-depth technical monograph, case analysis, and seminar discussion curriculum covering Data Security Posture Management (DSPM), modern IAM for autonomous agents, and data sovereignty.* \[[Read Online](/reports/ai-data-governance/)\] \[[Download PDF](/assets/docs/governing-sensitive-data-ai.pdf)\]
 - **From Zero to Career: How to Win Your Final Year Project and Impress Employers** (Leanpub, 2025)  
   *A comprehensive roadmap written specifically for undergraduate students to navigate research methodology, team dynamics, industry alignment, and oral defense.*
 - **Hands-on Lab Environments**: Custom-designed sandbox labs featuring Kali Linux, Docker containerized services, and automated CI/CD security pipelines.

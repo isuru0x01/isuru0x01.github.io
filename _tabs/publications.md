@@ -39,6 +39,15 @@ A selected collection of research outputs, peer-reviewed conference abstracts, d
 
 ---
 
+## 📑 Technical Reports & Monographs
+
+- **Governing Sensitive Data in Artificial Intelligence Systems: Five Foundational Controls for Machine-Speed Security, Privacy, and Compliance**  
+  **Isuru Madusanka Samarappulige** (2026)  
+  *Technical Report & Governance Framework* • \[[Read Online](/reports/ai-data-governance/)\] \[[PDF](/assets/docs/governing-sensitive-data-ai.pdf)\] \[[Google Doc](https://docs.google.com/document/d/1kizz9adQ4i045HmJd8F7QvQSam88jDSI/edit?usp=sharing)\]  
+  > Investigates the machine-speed security conundrum and establishes five foundational controls (DSPM Visibility, Continuous Classification, Jurisdictional Constraints, 4-A IAM, and Immutable Audit Pipelines) for operating AI workloads over sensitive enterprise data.
+
+---
+
 ## 📑 Preprints & Working Papers
 
 - **Evaluating the Educational Benefits and Risks of AI Coding Assistants Among Novice Programming Students in Sri Lanka**  
